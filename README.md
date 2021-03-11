@@ -1,2 +1,2 @@
 # youngjewoo.gihub.io
-Own blog page
+Technicla blog page
