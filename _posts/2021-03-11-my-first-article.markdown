@@ -4,7 +4,7 @@ title:  "[leetcode] Two Sum"
 date:   2021-03-11 23:19:54 +0900
 categories: jekyll update
 ---
-- Two Sum
+### Two Sum
 
 [Two Sum - LeetCode](https://leetcode.com/problems/two-sum/)
 
