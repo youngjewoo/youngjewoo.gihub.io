@@ -1,4 +1,10 @@
-- Daliy Temperatures
+---
+layout: post
+title:  "[leetcode] Daliy Temperature"
+date:   2021-03-14 02:48:54 +0900
+categories: jekyll update
+---
+### Daliy Temperatures
 
 [Daily Temperatures - LeetCode](https://leetcode.com/problems/daily-temperatures/)
 
